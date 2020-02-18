@@ -1,7 +1,7 @@
 # Worksheets Consolidator
 Script to consolidate excel sheets
 
-Usage: <exec> -i <input files path> -o <output file>
+Usage: [exec] -i [input files path] -o [output file]
 
 I would like a script to consolidate tabs in several excel files to one excel file. I would like to be able to provide the sharepoint locations of all the excel files, run the script to create a single file that includes all sheets from on the excel files.
 
