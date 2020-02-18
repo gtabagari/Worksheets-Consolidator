@@ -1,4 +1,4 @@
-# Worksheets-Consolidator
+# Worksheets Consolidator
 Script to consolidate excel sheets
 
 
